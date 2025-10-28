@@ -13,6 +13,6 @@ Writing portfolio featuring examples of my technical and professional documentat
 
 | Topic | Description | Documentation Type |
 |---------------------------|----------------------------------------------------------|------------------|
-| ePrescriber Registration  | Explains how to add and set up new prescribers in the system | How-to Guide |
+| [ePrescriber Registration](#eprescriber-registration)  | Explains how to add and set up new prescribers in the system | How-to Guide |
 | Workflow Batch Assignment | Guide for assigning workflow rules to multiple patients simultaneously | Explanation |
 
