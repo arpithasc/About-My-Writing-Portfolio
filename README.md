@@ -14,5 +14,5 @@ Writing portfolio featuring examples of my technical and professional documentat
 | Topic | Description | Documentation Type |
 |---------------------------|----------------------------------------------------------|------------------|
 | [ePrescriber Registration](https://github.com/arpithasc/ePrescriber-Registration/blob/main/README.md) | Explains how to add and set up new prescribers in the system | How-to Guide |
-| Workflow Batch Assignment | Guide for assigning workflow rules to multiple patients simultaneously | Explanation |
+| [Workflow Batch Assignment](https://github.com/arpithasc/Workflow-Batch-Assignment/blob/main/README.md) | Guide for assigning workflow rules to multiple patients simultaneously | Explanation |
 
