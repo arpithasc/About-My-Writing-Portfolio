@@ -15,4 +15,4 @@ Writing portfolio featuring examples of my technical and professional documentat
 |---------------------------|----------------------------------------------------------|------------------|
 | [ePrescriber Registration](https://github.com/arpithasc/ePrescriber-Registration/blob/main/README.md) | Explains how to add and set up new prescribers in the system | How-to Guide |
 | [Workflow Batch Assignment](https://github.com/arpithasc/Workflow-Batch-Assignment/blob/main/README.md) | Guide for assigning workflow rules to multiple patients simultaneously | Explanation |
-
+| [Configure Fee Schedule](https://github.com/arpithasc/ePrescriber-Registration/blob/main/README.md) | Comprehensive guide for configuring payor-specific fee schedules to ensure accurate billing, reimbursement, and contract compliance. |
